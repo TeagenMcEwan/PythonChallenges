@@ -39,3 +39,7 @@
 
 # Question 4
 
+this is a string 
+
+what a lovely day! 
+
