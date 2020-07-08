@@ -1,49 +1,51 @@
 # Question 1
 
-# print("fruit yay!")
+print("fruit yay!")
 
-# foods = ["orange", "apple", "banana", "strawberry", "grape", "blueberry", "carrot", "cauliflower", "pumpkin", "passionfruit", "mango", "kiwifruit"]
+foods = ["orange", "apple", "banana", "strawberry", "grape", "blueberry", "carrot", "cauliflower", "pumpkin", "passionfruit", "mango", "kiwifruit"]
 
-# print(foods)
+print(foods)
 
-# print(foods[0])
-# print(foods[2])
-# print(foods[11])
-# print(foods[0:3])
-# print(foods[-3:])
-# print(foods[-4])
+print(foods[0])
+print(foods[2])
+print(foods[11])
+print(foods[0:3])
+print(foods[-3:])
+print(foods[-4])
 
 
 # Question 2
 
-# mailing_list = [
-#     ["Roary", "roary@moth.catchers"],
-#     ["Remus", "remus@kapers.dog"],
-#     ["Prince Thomas of Whitepaw", "hrh.thomas@royalty.wp"],
-#     ["Biscuit", "biscuit@whippies.park"],
-#     ["Rory", "rory@whippies.park"]
-# ]
+mailing_list = [
+    ["Roary", "roary@moth.catchers"],
+    ["Remus", "remus@kapers.dog"],
+    ["Prince Thomas of Whitepaw", "hrh.thomas@royalty.wp"],
+    ["Biscuit", "biscuit@whippies.park"],
+    ["Rory", "rory@whippies.park"]
+]
 
-# for item in mailing_list:
-#     print(f"{item[0]:<5}: {item[1]}")
+for item in mailing_list:
+    print(f"{item[0]:<5}: {item[1]}")
 
 
 # Question 3
 
-# name = input("List three names?")
-# print(name)
+names = ["Izzy", "Archie", "Boston"]
 
-# names = ["Izzy", "Archie", "Boston"]
-# print(names)
+names = input("List three names?")
+print(names)
+
+names = ["Izzy", "Archie", "Boston"]
+print(names)
 
 
 # Question 4
 
-item = "this is a string" 
-print(item)
+# item = "this is a string" 
+# print(item)
 
-day = "what a lovely day!" 
-print(day)
+# day = "what a lovely day!" 
+# print(day)
 
-for item in range("a"0, 50, 5):
-    print(index)
+# for item in range("a"0, 50, 5):
+#     print(index)
