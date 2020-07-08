@@ -39,7 +39,11 @@
 
 # Question 4
 
-this is a string 
+item = "this is a string" 
+print(item)
 
-what a lovely day! 
+day = "what a lovely day!" 
+print(day)
 
+for item in range("a"0, 50, 5):
+    print(index)
